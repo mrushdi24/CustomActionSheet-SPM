@@ -75,7 +75,7 @@ sheet.present(in: self.view)
 
 
 📸 Preview
-<img src="https://your-image-url.com/screenshot.png" alt="Custom Action Sheet Preview" width="300">
+<img src="images/customAction.gif" alt="Custom Action Sheet Preview" width="300">
 
 
 ✅ Requirements
