@@ -11,6 +11,20 @@ A customizable action sheet for iOS, written in Swift. Easily display action but
 - Shadow support
 - Fully customizable via `ActionSheetStyle`
 
+
+CustomActionSheet/
+│
+├── Package.swift
+├── README.md
+├── LICENSE
+├──Images /
+│    └── customAction.gif/
+│
+└── Sources/
+    └── CustomActionSheet/
+       └── CustomActionSheet.swift
+
+        
 ## 📦 Installation
 
 ### Swift Package Manager (SPM)
